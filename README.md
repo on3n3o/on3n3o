@@ -18,5 +18,5 @@
 | ------------- |:-------------:| :----- |
 | [ulanelectronics.pl](http://ulanelectronics.pl) | ![ulanelectronics.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-07-ulanelectronics-pl-–-Import-Eksport-Dystrybucja.png "ulanelectronics.pl - my company domain") | my company domain based on WordPress  |
 | [21L.PL](https://21l.pl) | ![21l.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-06-21L-PL-Polski-skracacz-linków.png "21L.PL - url shortener") | Url shortener build on:<br/> * Laravel<br/> * Bulma  |
-| [koinomat.pl](https://koinomat.pl) | ![koinomat.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-07-21L-PL-Polski-skracacz-linków.png "koinomat.pl - List of polish ATMs for crypto") | List of polish ATMs for crypto<br/>Build on:<br/> * Laravel<br/> * Bootstrap  |
+| [koinomat.pl](https://koinomat.pl) | ![koinomat.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-07-Koinomat-pl.png "koinomat.pl - List of polish ATMs for crypto") | List of polish ATMs for crypto<br/>Build on:<br/> * Laravel<br/> * Bootstrap  |
 
