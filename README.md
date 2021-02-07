@@ -4,23 +4,19 @@
 
 ## I'm a full stack developer at Data Space Sp. z o. o.
 
-<!--
-**on3n3o/on3n3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on mobile app for electric scooters
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on FL2000 linux (>=Ubuntu 14.04) driver
 - 👨‍💻 Currently used technologies: Laravel, Angular, React, Bootstrap, JQuery
 - 📫 How to reach me: gitkontakt@ulanelectronics.pl
-- ⚡ Fun fact: ...
 
 ---
 
 #### My current projects online
 
-* [ulanelectronics.pl - my company domain](https://ulanelectronics.pl)
-* [21L.PL - url shortener](https://21l.pl)
-* [koinomat.pl - List of polish ATMs for crypto](https://koinomat.pl)
+| Project | Refrence | Description |
+| ------------- |:-------------:| :----- |
+| [ulanelectronics.pl](http://ulanelectronics.pl) | ![ulanelectronics.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-07-ulanelectronics-pl-–-Import-Eksport-Dystrybucja.png "ulanelectronics.pl - my company domain") | my company domain based on WordPress  |
+| [21L.PL](https://21l.pl)<br/> [(Github)](https://github.com/on3n3o/url-shortener) | ![21l.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-06-21L-PL-Polski-skracacz-linków.png "21L.PL - url shortener") | Url shortener build on:<br/> * Laravel<br/> * Bulma  |
+| [koinomat.pl](https://koinomat.pl) | ![koinomat.pl](http://ulanelectronics.pl/wp-content/uploads/2021/02/Screenshot_2021-02-07-Koinomat-pl.png "koinomat.pl - List of polish ATMs for crypto") | List of polish ATMs for crypto<br/>Build on:<br/> * Laravel<br/> * Bootstrap  |
 
