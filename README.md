@@ -12,7 +12,19 @@
 
 ---
 
-#### My current projects online
+### My certificates
+
+| Test | TEST | TEST |
+| :-- | :-- | :-- |
+| engineering degree </br> from ETI on </br> Gdansk University of Technology | IT Specialist </br> from ZSE Bydgoszcz  | IT Essentials </br> from Cisco 
+
+| Test | TEST | TEST |
+| :-- | :-- | :-- |
+| The ultimate React Native Series: Fundamentals </br> from Code With Mosh | IT Specialist </br> from ZSE Bydgoszcz  | IT Essentials </br> from Cisco 
+
+---
+
+### My current projects online
 
 | Project | Refrence | Description |
 | ------------- |:-------------:| :----- |
