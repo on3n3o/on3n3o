@@ -18,7 +18,7 @@
 | :-- | :-- | :-- |
 | engineering degree </br> from ETI on </br> Gdansk University of Technology | IT Specialist </br> from ZSE Bydgoszcz  | IT Essentials </br> from Cisco 
 
-| Test | TEST | TEST |
+| ![Certificate of graduation - The ultimate React Native Series - Fundamentals - from Code With Mosh](http://ulanelectronics.pl/wp-content/uploads/2021/02/The-ultimate-React-Native-Series-Fundamentals-cert.png "Certificate of graduation </br> The ultimate React Native Series </br> Fundamentals </br> from Code With Mosh") | TEST | TEST |
 | :-- | :-- | :-- |
 | Certificate of graduation </br> The ultimate React Native Series </br> Fundamentals </br> from Code With Mosh | Certificate of graduation </br> The ultimate React Native Series </br> Advanced Concepts </br> from Code With Mosh  | IT Essentials </br> from Cisco 
 
