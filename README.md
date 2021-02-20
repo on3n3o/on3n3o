@@ -20,7 +20,14 @@
 
 | Test | TEST | TEST |
 | :-- | :-- | :-- |
-| The ultimate React Native Series: Fundamentals </br> from Code With Mosh | IT Specialist </br> from ZSE Bydgoszcz  | IT Essentials </br> from Cisco 
+| Certificate of graduation </br> The ultimate React Native Series </br> Fundamentals </br> from Code With Mosh | Certificate of graduation </br> The ultimate React Native Series </br> Advanced Concepts </br> from Code With Mosh  | IT Essentials </br> from Cisco 
+
+---
+
+### My Google Skill Badges
+
+| Test | TEST | TEST | TEST |
+| :-- | :-- | :-- | :-- |
 
 ---
 
