@@ -1,8 +1,8 @@
 ### Hi there! I'm Marcin Maciejewski aka on3n3o 👋
 
-## I'm a CEO of Ułan Electronics Sp. z o. o.
+### I'm a CEO of Ułan Electronics Sp. z o. o.
 
-## I'm a full stack developer at Data Space Sp. z o. o.
+### I'm a full stack developer at Data Space Sp. z o. o.
 
 - 🔭 I’m currently working on mobile app for electric scooters
 - 🌱 I’m currently learning React Native
@@ -12,7 +12,26 @@
 
 ---
 
-#### My current projects online
+### My diplomas and certificates
+
+| ![Diploma of Graduation in undergraduate studies - IT engineer - ETI on Gdansk University of Technology](http://ulanelectronics.pl/wp-content/uploads/2021/02/diploma.png "Diploma of Graduation in undergraduate studies - IT engineer - ETI on Gdansk University of Technology") | ![Diploma - IT Specialist - ZSE Bydgoszcz](http://ulanelectronics.pl/wp-content/uploads/2021/02/tech-inf.png "Diploma - IT Specialist - ZSE Bydgoszcz") | ![Certificate of Course Completion - IT Essentials: PC Hardware and Software - Cisco Networking Academy](http://ulanelectronics.pl/wp-content/uploads/2021/02/it-essentials.png "Certificate of Course Completion - IT Essentials: PC Hardware and Software - Cisco Networking Academy") |
+| :-- | :-- | :-- |
+| engineering degree </br> from ETI on </br> Gdansk University of Technology | IT Specialist </br> from ZSE Bydgoszcz  | IT Essentials </br> from Cisco 
+
+| ![Certificate of graduation - The ultimate React Native Series - Fundamentals - from Code With Mosh](http://ulanelectronics.pl/wp-content/uploads/2021/02/The-ultimate-React-Native-Series-Fundamentals-cert.png "Certificate of graduation - The ultimate React Native Series - Fundamentals - from Code With Mosh") | ![Certificate of graduation - The ultimate React Native Series - Advanced Concepts - from Code With Mosh](http://ulanelectronics.pl/wp-content/uploads/2021/02/The-ultimate-React-Native-Series-Advanced-Concepts-cert.png "Certificate of graduation - The ultimate React Native Series - Advanced Concepts - from Code With Mosh") 
+| :-- | :-- |
+| Certificate of graduation </br> The ultimate React Native Series </br> Fundamentals </br> from Code With Mosh | Certificate of graduation </br> The ultimate React Native Series </br> Advanced Concepts </br> from Code With Mosh  
+
+<!-- --- -->
+
+<!-- ### My Google Skill Badges -->
+
+<!-- | Test | TEST | TEST | TEST |
+| :-- | :-- | :-- | :-- | -->
+
+---
+
+### My current projects online
 
 | Project | Refrence | Description |
 | ------------- |:-------------:| :----- |
