@@ -12,9 +12,9 @@
 
 ---
 
-### My certificates
+### My diplomas and certificates
 
-| Test | TEST | TEST |
+| ![Diploma of Graduation in undergraduate studies - IT engineer - ETI on Gdansk University of Technology](http://ulanelectronics.pl/wp-content/uploads/2021/02/diploma.png "Diploma of Graduation in undergraduate studies - IT engineer - ETI on Gdansk University of Technology") | ![Diploma - IT Specialist - ZSE Bydgoszcz](http://ulanelectronics.pl/wp-content/uploads/2021/02/tech-inf.png "Diploma - IT Specialist - ZSE Bydgoszcz") | ![Certificate of Course Completion - IT Essentials: PC Hardware and Software - Cisco Networking Academy](http://ulanelectronics.pl/wp-content/uploads/2021/02/it-essentials.png "Certificate of Course Completion - IT Essentials: PC Hardware and Software - Cisco Networking Academy") |
 | :-- | :-- | :-- |
 | engineering degree </br> from ETI on </br> Gdansk University of Technology | IT Specialist </br> from ZSE Bydgoszcz  | IT Essentials </br> from Cisco 
 
@@ -22,12 +22,12 @@
 | :-- | :-- |
 | Certificate of graduation </br> The ultimate React Native Series </br> Fundamentals </br> from Code With Mosh | Certificate of graduation </br> The ultimate React Native Series </br> Advanced Concepts </br> from Code With Mosh  
 
----
+<!-- --- -->
 
-### My Google Skill Badges
+<!-- ### My Google Skill Badges -->
 
-| Test | TEST | TEST | TEST |
-| :-- | :-- | :-- | :-- |
+<!-- | Test | TEST | TEST | TEST |
+| :-- | :-- | :-- | :-- | -->
 
 ---
 
