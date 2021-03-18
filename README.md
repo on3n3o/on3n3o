@@ -22,12 +22,12 @@
 | :-- | :-- |
 | Certificate of graduation </br> The ultimate React Native Series </br> Fundamentals </br> from Code With Mosh | Certificate of graduation </br> The ultimate React Native Series </br> Advanced Concepts </br> from Code With Mosh  
 
-<!-- --- -->
+---
 
-<!-- ### My Google Skill Badges -->
+### My Google Badges
 
-<!-- | Test | TEST | TEST | TEST |
-| :-- | :-- | :-- | :-- | -->
+| [![Skill badge - Perform Foundational Infrastructure Tasks in Google Cloud](https://cdn.qwiklabs.com/wgk4u0FK3ainv0MN7iNCAJMzISD9KUKBfwu7fSGI10I%3D "Skill badge - Perform Foundational Infrastructure Tasks in Google Cloud")](https://www.qwiklabs.com/public_profiles/b4a5067d-1fc7-4d2c-9c8b-ac94324060e6/badges/651530) | [![Quest badge - Google Cloud Essentials](https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D "Quest badge - Google Cloud Essentials")](https://www.qwiklabs.com/public_profiles/b4a5067d-1fc7-4d2c-9c8b-ac94324060e6/badges/648437) | 
+| :-- | :-- |
 
 ---
 
